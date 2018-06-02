@@ -1,6 +1,6 @@
-package com.clubdynamics.dto.user;
+package com.clubdynamics.dto.entity.user;
 
-import com.clubdynamics.dto.contact.ContactTypeDto;
+import com.clubdynamics.dto.entity.contact.ContactTypeDto;
 import javax.validation.constraints.NotBlank;
 import javax.validation.constraints.NotNull;
 

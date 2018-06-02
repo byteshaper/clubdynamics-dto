@@ -1,4 +1,4 @@
-package com.clubdynamics.dto.login;
+package com.clubdynamics.dto.entity.login;
 
 import javax.validation.constraints.NotBlank;
 
